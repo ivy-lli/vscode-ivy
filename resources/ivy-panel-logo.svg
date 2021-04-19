@@ -1,17 +1,97 @@
-
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>IvyLeaf_256x256</title>
-    <desc>Created with Sketch.</desc>
-    <g id="IvyLeaf_256x256" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M254,128 C254,58.4111524 197.589721,2 128.001952,2 C58.4141819,2 2,58.4111524 2,128 C2,197.588848 58.4141819,254 128.001952,254 C197.589721,254 254,197.588848 254,128" id="Fill-1-Copy" stroke="#353535" stroke-width="4" fill="none"></path>
-        <g id="Logo-/-Icon" transform="translate(2.000000, 2.000000)">
-            
-            <g id="Leaf-Color">
-                <use fill="grey" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                <use fill="#353535" fill-rule="evenodd" xlink:href="#path-1"></use>
-            </g>
-            <path d="M213.230769,196.535094 C208.285741,169.137991 193.112169,144.770301 172.993569,136.787916 C199.469507,109.476478 200.823456,64.9776018 199.60957,43.3356039 C198.854782,34.2162158 197.158455,32.9234588 190.159158,32.892308 C170.752549,33.5425803 131.748688,40.9837207 103.074527,69.1206543 C94.4995137,56.1930845 70.4241128,39.4145006 42.0612051,44.0364962 C29.5293909,77.53915 44.4228354,111.041804 47.3369394,111.041804 C38.7619259,114.347679 30.5176184,120.285795 23.2615385,129.525892 C51.6244461,183.989121 79.3298323,161.875968 105.381688,151.64294 C98.6352847,193.844446 98.3785012,210.868342 143.97314,234.492308 C152.874969,221.288275 152.874969,204.790048 150.898514,199.506099 C162.43821,207.426182 190.143596,210.397187 213.230769,196.535094" id="Leaf-Color" fill="#1e1e1e"></path>
-        </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg3787"
+   sodipodi:docname="ivy-panel-logo2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata3793">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>IvyLeaf_256x256</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3791" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview3789"
+     showgrid="false"
+     inkscape:zoom="3.2304688"
+     inkscape:cx="74.137848"
+     inkscape:cy="165.14631"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3787" />
+  <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+  <title
+     id="title3773">IvyLeaf_256x256</title>
+  <desc
+     id="desc3775">Created with Sketch.</desc>
+  <g
+     id="IvyLeaf_256x256"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(0.95563281,0,0,0.95497926,5.8989018,5.7641525)">
+    <path
+       d="M 254,128 C 254,58.411152 197.58972,2 128.00195,2 58.414182,2 2,58.411152 2,128 2,197.58885 58.414182,254 128.00195,254 197.58972,254 254,197.58885 254,128"
+       id="Fill-1-Copy"
+       style="fill:none;stroke:#353535;stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <g
+       id="Logo-/-Icon"
+       transform="translate(2,2)"
+       style="stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="Leaf-Color"
+         style="stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none">
+        <use
+           xlink:href="#path-1"
+           id="use3778"
+           style="fill:#808080;fill-opacity:1;stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter-2)"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           xlink:href="#path-1"
+           id="use3780"
+           style="fill:#353535;fill-rule:evenodd;stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <path
+         d="m 202.99593,190.14048 c -4.41221,-24.60912 -17.95086,-46.49711 -35.90172,-53.66719 23.62321,-24.53218 24.83127,-64.50276 23.74818,-83.942428 -0.67347,-8.191382 -2.18702,-9.352586 -8.43215,-9.380567 -17.31559,0.584099 -52.11686,7.268016 -77.70143,32.541682 C 97.057732,64.07994 75.576408,49.008777 50.269547,53.16043 c -11.181536,30.093361 2.107169,60.18671 4.707284,60.18671 -7.651072,2.96947 -15.007072,8.30331 -21.481324,16.60312 25.306861,48.92095 50.027046,29.05807 73.271863,19.86638 -6.01949,37.907 -6.2486,53.19851 34.4333,74.41846 7.94268,-11.86037 7.94268,-26.6797 6.17918,-31.42595 10.29632,7.11412 35.01651,9.78279 55.61608,-2.66867"
+         id="path3783"
+         style="fill:#1e1e1e;stroke-width:15.36874771;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
     </g>
+  </g>
 </svg>
